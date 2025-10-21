@@ -15,8 +15,13 @@ VM settings:
 Name: WinServer
 Type: Microsoft Windows
 Version: Windows Server 2022 (64-bit)
+![1_HrTWLCzhGCZk7hMLEgcuvA](https://github.com/user-attachments/assets/eac29297-04ab-4c72-972b-b2999f8e1f6d)
+
 
 In the VM settings, under Storage, I selected the empty optical disk and mounted the Windows Server 2022 ISO. Once attached, I launched the VM to begin the installation.
+![1_iGv3Thb5BK_HltoAFUIFzg](https://github.com/user-attachments/assets/1228d240-b8b0-481f-8cc6-817eb207c41e)
+
+
 
 ### Choosing the Server Edition 
 
@@ -28,6 +33,10 @@ Windows Server Datacenter Core
 Windows Server Datacenter (Desktop Experience)
 
 I decided to install both Core and Desktop Experience versions — with the goal of eventually becoming more comfortable in the command line (Core), but for now, I focused on the Desktop Experience, which provides a GUI and is more familiar.
+
+
+![1_145UIqa88FDsCq9FgMPLTg](https://github.com/user-attachments/assets/f346bc2a-9449-4f59-9645-5f203a53e3b2)
+
 
 ### Installing Active Directory Domain Services (AD DS) ##
 
@@ -50,6 +59,10 @@ The server restarted, and I was able to log into my new domain.
 
 Once logged in, I opened Active Directory Users and Computers from the Tools menu in Server Manager.
 I now have a fully functional AD lab environment!
+
+![1_kIvUxBlI7Vq85AUvCmK9kg](https://github.com/user-attachments/assets/35cf5b6c-e5ea-4d70-a949-564ee308d664)
+
+
 
 ### This is just the beginning. My upcoming goals include:
 
