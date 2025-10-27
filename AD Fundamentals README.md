@@ -178,7 +178,7 @@ Go to account, logon hours,
 ![1_ALDHOr5v4v7gKLDIxs3dyg](https://github.com/user-attachments/assets/b2f32c3f-cb6a-41b9-9d86-42a4792a40ca)
 
 
-**Copy Users***
+***Copy Users***
 
 
 The Service department hired a new member. To make things easier, we are going to create the new user with all the permissions a current employee has.
